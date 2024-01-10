@@ -111,8 +111,8 @@ body {
        
       }
       .CSAMobile{
-        width: 400px;
-        height: 550px;
+        width: 375px;
+        height: 600px;
         flex: 5.33%;
         padding: 1px;
       }
@@ -127,8 +127,8 @@ body {
         padding: 1px;
       }
       .ESMobile{
-        width: 400px;
-        height: 550px;
+        width: 375px;
+        height: 600px;
         flex: 5.33%;
         padding: 1px;
       }
@@ -194,7 +194,7 @@ body {
         width: 100%;
         
         padding: 100px 20%;
-        background-image: url(Images/Footer3.png);
+        background-image: url('Images/Footer3.png');
         background-size: cover;
         display: flex;
         flex-direction: row;
